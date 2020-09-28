@@ -1,0 +1,975 @@
+Evaluation of fashion ensembled for task 1: 
+fashion_devtest_dials_api_calls.json
+Reading: fashion_devtest_dials_api_calls.json
+Reading: ensembled.json
+
+Attribute Wrong => Dialog_id : 8546, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8986, turn_id: 0
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'availableSizes', u'info'] , prediction [u'info']
+
+Attribute Wrong => Dialog_id : 5158, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8306, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4168, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7809, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8281, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7107, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7831, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7719, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'hemLength', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6518, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'size'] , prediction [u'size']
+
+Attribute Wrong => Dialog_id : 9061, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 9061, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3138, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 940, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7135, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'info', u'necklineStyle'] , prediction [u'necklineStyle']
+
+Attribute Wrong => Dialog_id : 4510, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 8346, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 6527, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand'] , prediction [u'brand']
+
+Attribute Wrong => Dialog_id : 6794, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5594, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8537, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand'] , prediction [u'brand']
+
+Attribute Wrong => Dialog_id : 808, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5481, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 4788, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4788, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 2303, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2222, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6027, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'sleeveStyle'] , prediction [u'sleeveStyle']
+
+Attribute Wrong => Dialog_id : 8055, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4773, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 8547, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 6938, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'hemLength'] , prediction [u'hemLength']
+
+Attribute Wrong => Dialog_id : 6938, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 8270, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'material'] , prediction [u'material']
+
+Attribute Wrong => Dialog_id : 8270, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3049, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'hemLength', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 9207, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'pattern', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3817, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6109, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6109, turn_id: 6
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2299, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2695, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'hemLength', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 2695, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8193, turn_id: 4
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 949, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5243, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'info'] , prediction [u'info']
+
+Attribute Wrong => Dialog_id : 7917, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'hemLength'] , prediction [u'hemLength']
+
+Attribute Wrong => Dialog_id : 7873, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2487, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5655, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 751, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6425, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'jacketStyle'] , prediction [u'jacketStyle']
+
+Attribute Wrong => Dialog_id : 9308, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand', u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6860, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'hemLength'] , prediction [u'hemLength']
+
+Attribute Wrong => Dialog_id : 2204, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 770, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2549, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5315, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8216, turn_id: 1
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8216, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5250, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 533, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5958, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'material', u'skirtLength'] , prediction [u'skirtLength']
+
+Attribute Wrong => Dialog_id : 5958, turn_id: 1
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'availableSizes', u'info', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6836, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 8917, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7200, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7804, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'dressStyle', u'hemStyle'] , prediction [u'hemStyle']
+
+Attribute Wrong => Dialog_id : 8517, turn_id: 6
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3812, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'pattern', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1898, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'hemStyle', u'necklineStyle'] , prediction [u'necklineStyle']
+
+Attribute Wrong => Dialog_id : 1898, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5359, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 6053, turn_id: 4
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7132, turn_id: 7
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 6821, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6700, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8289, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'clothingStyle', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 5308, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'necklineStyle'] , prediction [u'necklineStyle']
+
+Attribute Wrong => Dialog_id : 3769, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6963, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 5945, turn_id: 5
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6238, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8030, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2439, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3032, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7550, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3642, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 2141, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5724, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8223, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5495, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 6230, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand'] , prediction [u'brand']
+
+Attribute Wrong => Dialog_id : 5143, turn_id: 3
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'dressStyle', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 4293, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand'] , prediction [u'brand']
+
+Attribute Wrong => Dialog_id : 6063, turn_id: 0
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7924, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 2909, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'material'] , prediction [u'material']
+
+Attribute Wrong => Dialog_id : 8853, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'material', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5731, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7386, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7386, turn_id: 2
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 6356, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 9049, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5867, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'dressStyle'] , prediction [u'dressStyle']
+
+Attribute Wrong => Dialog_id : 5867, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7912, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5944, turn_id: 1
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8046, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 9458, turn_id: 3
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'color', u'material'] , prediction [u'material']
+
+Attribute Wrong => Dialog_id : 9124, turn_id: 3
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8732, turn_id: 5
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8732, turn_id: 6
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7359, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 7593, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3625, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7988, turn_id: 3
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'hemLength', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 7245, turn_id: 5
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'availableSizes', u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6413, turn_id: 2
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4444, turn_id: 1
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'brand', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 3839, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'material'] , prediction [u'material']
+
+Attribute Wrong => Dialog_id : 9173, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6861, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4903, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1928, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'dressStyle', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 6407, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 1071, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7219, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 6018, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'clothingStyle', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 7742, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6507, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1264, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8050, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 2473, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 2473, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7669, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 440, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8818, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 9176, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'material'] , prediction [u'material']
+
+Attribute Wrong => Dialog_id : 6401, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'sweaterStyle'] , prediction [u'sweaterStyle']
+
+Attribute Wrong => Dialog_id : 7486, turn_id: 5
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8221, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7743, turn_id: 6
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5030, turn_id: 0
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'hemLength', u'size'] , prediction [u'size']
+
+Attribute Wrong => Dialog_id : 5573, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 706, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand'] , prediction [u'brand']
+
+Attribute Wrong => Dialog_id : 6369, turn_id: 5
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 5028, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4968, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 8186, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 936, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3465, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8231, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4497, turn_id: 0
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'brand', u'dressStyle', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4109, turn_id: 2
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6225, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 6225, turn_id: 5
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2963, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2963, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 9209, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'material', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 9209, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand'] , prediction [u'brand']
+
+Attribute Wrong => Dialog_id : 6526, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7265, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3931, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4387, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8863, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8863, turn_id: 5
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 600, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'hemLength', u'sleeveStyle'] , prediction [u'sleeveStyle']
+
+Attribute Wrong => Dialog_id : 8060, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4657, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'dressStyle', u'waistStyle'] , prediction [u'waistStyle']
+
+Attribute Wrong => Dialog_id : 4657, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2806, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'pattern', u'sweaterStyle'] , prediction [u'sweaterStyle']
+
+Attribute Wrong => Dialog_id : 8815, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7947, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'info'] , prediction [u'info']
+
+Attribute Wrong => Dialog_id : 7947, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6837, turn_id: 5
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4165, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4001, turn_id: 0
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'brand', u'clothingStyle'] , prediction [u'clothingStyle']
+
+Attribute Wrong => Dialog_id : 730, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 4986, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 4986, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 6317, turn_id: 3
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1308, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4867, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5901, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7346, turn_id: 6
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'pattern', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 2958, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7074, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5366, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 2411, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 8484, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8065, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4742, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5302, turn_id: 1
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'embellishment', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 1005, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'material'] , prediction [u'material']
+
+Attribute Wrong => Dialog_id : 3970, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 4785, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'info'] , prediction [u'info']
+
+Attribute Wrong => Dialog_id : 8906, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4264, turn_id: 0
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1333, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5758, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5378, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6451, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 8256, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7820, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 2685, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 3208, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2190, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8106, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'clothingStyle', u'hemLength'] , prediction [u'hemLength']
+
+Attribute Wrong => Dialog_id : 9190, turn_id: 5
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 9123, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'embellishment', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 9123, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 9329, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5642, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'material', u'skirtStyle'] , prediction [u'skirtStyle']
+
+Attribute Wrong => Dialog_id : 1467, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6625, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'clothingStyle', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 6088, turn_id: 2
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'color', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 4868, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'pattern', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 4868, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'dressStyle', u'info'] , prediction [u'info']
+
+Attribute Wrong => Dialog_id : 5046, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5937, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8099, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6619, turn_id: 4
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 2736, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'color', u'pattern'] , prediction [u'pattern']
+
+Attribute Wrong => Dialog_id : 2736, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1384, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8148, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 3144, turn_id: 3
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 7202, turn_id: 2
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'info', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8688, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 7079, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8952, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'embellishment'] , prediction [u'embellishment']
+
+Attribute Wrong => Dialog_id : 8952, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1656, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'dressStyle', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 1268, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'availableSizes', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6830, turn_id: 2
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6830, turn_id: 3
+ Action_Ans : SearchMemory / Action_Predicted  : SearchMemory 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 6830, turn_id: 6
+ Action_Ans : SearchDatabase / Action_Predicted  : SearchDatabase 
+ Attribute answer [u'customerRating', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 5045, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+
+Attribute Wrong => Dialog_id : 8168, turn_id: 0
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'customerRating'] , prediction [u'customerRating']
+
+Attribute Wrong => Dialog_id : 701, turn_id: 1
+ Action_Ans : SpecifyInfo / Action_Predicted  : SpecifyInfo 
+ Attribute answer [u'brand', u'price'] , prediction [u'price']
+#Instances evaluated API: 5397
+skipped 2179
+{'action_accuracy': 0.8530665184361682, 'attribute_accuracy': 0.9645322567309366}
